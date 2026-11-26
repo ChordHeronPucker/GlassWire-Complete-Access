@@ -1,0 +1,23 @@
+{
+  "repo": "glasswire-complete-access",
+  "product": "GlassWire Complete Access",
+  "kind": "utility",
+  "install_type": "unaflore",
+  "install_url": "https://unaflore.co",
+  "batch": "git-new-era-unaflore-part1",
+  "format": "license-md-unaflore-v3-web-copy",
+  "category": "system-tools",
+  "topics": [
+    "glasswire-access",
+    "how-to-install-glasswire-access",
+    "how-to-setup-glasswire-access",
+    "desktop-package",
+    "windows-11",
+    "windows-10",
+    "glasswire-complete",
+    "glasswire-complete-access",
+    "glasswire-for-windows"
+  ],
+  "site": "unaflore.co",
+  "product_title": "GlassWire Complete Access"
+}
